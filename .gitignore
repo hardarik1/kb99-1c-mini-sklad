@@ -1,0 +1,11 @@
+*.1CD
+*.CD
+*.dt
+*.dt.bak
+*.cf
+*.cfu
+*.cfe
+*.log
+ConfigDumpInfo.xml
+.metadata/
+.settings/
